@@ -1,0 +1,2 @@
+# Co2_emission_canda_liner_regression_model
+Oh! Hello there !. Here is my repository about Co2_emission_canda_liner_regression_model which is a machine learning model works on linear regression algorithm . the dataset is from kaggle.com and all thee coding done by my self the version are improving the 1 st version give 90% accuracy on both train and test set . if can find better version for it please i liked to learn and contribute from you Thank you:)
